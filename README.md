@@ -24,6 +24,7 @@ Technology: Only MANET devices (WWW is not reliable)
 
 Hostile/Conflict scenarios: Following the takeover of Gaza by Hamas, the territory has been subjected to a blockade, maintained by Israel and Egypt.
 
+![Hnet com-image(1)](https://user-images.githubusercontent.com/82784007/145104980-161d891b-d462-4e81-8c22-d176f7745cd7.png)
 
 #### Because of the Israeli–Egyptian blockade, the population is not free to leave or enter the Gaza Strip, Israel maintains direct external control over Gaza and indirect control over life within Gaza: it controls Gaza's air and maritime space, and six of Gaza's seven land crossings. It reserves the right to enter Gaza at will with its military and maintains a no-go buffer zone within the Gaza territory. Gaza is dependent on Israel for its water, electricity, telecommunications, and other utilities.
 
